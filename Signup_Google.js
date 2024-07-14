@@ -40,9 +40,7 @@ function Signup_Google() {
 					<label htmlFor="emailOrPhone">Email or phone</label>
 					<input type="text" id="emailOrPhone" name="emailOrPhone" />
 				</div>
-				<div className="forgot-email">
-					<a href="/">Forgot email?</a>
-				</div>
+				
 				<br />
 				<p>
 					To continue, Google will share your name, email address, language
